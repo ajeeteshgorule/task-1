@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "name": "Cosmetics",
+            "productList": [
+                {
+                    "name": "Hair Oil-1",
+                    "price": 121
+                },
+                {
+                    "name": "Face wash-2",
+                    "price": 122
+                }
+            ]
+        },
+        {
+            "name": "Household",
+            "productList": [
+                {
+                    "name": "Hair Oil-3",
+                    "price": 123
+                },
+                {
+                    "name": "Face wash-4",
+                    "price": 124
+                }
+            ]
+        }
+    ]
+}
